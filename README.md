@@ -2,19 +2,21 @@
 
 # 🌍 Welcoming the World in Multiple Languages
 
-### Promoting Global Unity, Responsible Digital Knowledge & Holistic Wellbeing
+### Promoting Global Unity, Evidence-Informed Knowledge, Responsible Digital Access & Holistic Wellbeing
 
 ---
 
-## Welcome!
+## 🌏 A Warm Welcome to Everyone
 
-This repository is a small yet meaningful contribution toward building a world where knowledge, compassion, accessibility, and wellbeing transcend geographical, linguistic, and cultural boundaries.
+Welcome to this small yet meaningful initiative for a world where knowledge, compassion, accessibility, and wellbeing can transcend geographical, linguistic, and cultural boundaries.
 
-It is part of the **Global Wellness Skyline (GWS) Ecosystem**, an educational ecosystem dedicated to connecting healthcare, wellness, responsible digital knowledge, Artificial Intelligence, human wisdom, accessibility, and lifelong learning.
+This repository is part of the **Global Wellness Skyline (GWS) Ecosystem**, an educational initiative connecting healthcare, wellness, responsible digital knowledge, artificial intelligence, human wisdom, accessibility, and lifelong learning.
 
----
+**Our guiding principle:** Language should invite people into knowledge, never become a barrier to it.
 
-# 🌐 Multilingual Greetings
+## 🌐 Multilingual Greetings
+
+The following greetings express a shared hope for a healthier, wiser, and more compassionate world.
 
 <details>
 <summary>🇬🇧 English</summary>
@@ -73,7 +75,7 @@ Together, let us build a healthier, wiser, and more compassionate world.
 <details>
 <summary>🇪🇸 Español (Spanish)</summary>
 
-¡Bienvenido!
+¡Bienvenidos!
 
 Construyamos juntos un mundo más saludable, sabio y solidario.
 
@@ -117,80 +119,86 @@ Construisons ensemble un monde plus sain, plus sage et plus solidaire.
 
 ---
 
-# 🌍 About This Repository
+## 🌱 About This Repository
 
-Language should never become a barrier to learning.
+This repository offers a simple multilingual welcome and reflects a broader commitment to dignity, mutual respect, inclusiveness, and accessible learning.
 
-This repository demonstrates the philosophy of welcoming every individual with dignity, respect, inclusiveness, and accessibility.
+It is a gateway to the **Global Wellness Skyline (GWS) Ecosystem**, whose educational work explores:
 
-It represents one of the educational initiatives of the **Global Wellness Skyline (GWS) Ecosystem**, promoting:
+- 🌍 Global unity and cross-cultural understanding
+- 📚 Responsible digital knowledge and lifelong learning
+- 🔬 Evidence-informed education and scientific understanding
+- ♿ Accessibility and inclusive communication
+- 🤖 Artificial Intelligence working alongside Human Intelligence and human judgement
+- 🌿 Holistic health, wellness, and wellbeing
+- ❤️ Compassion, dignity, and shared responsibility
 
-- 🌎 Global Unity
-- 📚 Responsible Digital Knowledge
-- ♿ Accessibility
-- 🤖 Artificial Intelligence with Human Wisdom
-- 🌿 Holistic Health
-- ❤️ Wellbeing
-- 🌱 Wellness
-- 📖 Lifelong Learning
+The greetings are invitations to connect. The wider educational resources should be explored according to their individual scope, sources, and supporting evidence.
 
----
+## 🔬 Evidence-Informed Knowledge & Responsible Digital Access
 
-# 🌐 Global Wellness Skyline (GWS) Ecosystem
+Knowledge grows stronger when it is communicated clearly, considered critically, and shared responsibly.
 
-Official Websites
+This initiative encourages respectful access to educational resources across languages and cultures. It recognises that digital platforms and search tools differ in their availability, language support, indexing, and accessibility across regions.
 
-🌍 https://gwsecosystem.com
+This repository is one small contribution to a wider educational mission. Its presence on GitHub does not guarantee availability or indexing by every search engine, platform, or AI system.
 
-🌿 https://wellnessskyline.com
+## 🌐 Explore the Global Wellness Skyline Ecosystem
 
-🏥 https://drnadharmadhikariclinic.com
+- 🌍 **GWS Ecosystem:** https://gwsecosystem.com/
+- 🌿 **Wellness Skyline — Global Wellness Knowledge Ecosystem:** https://wellnessskyline.com/
+- 🏥 **Dr. N. A. Dharmadhikari Clinic:** https://drnadharmadhikariclinic.com/
 
----
+These interconnected platforms bring together healthcare, wellness education, responsible digital knowledge, and lifelong learning.
 
-# 🔬 Research Identity
+## 📖 Related Educational Initiatives
 
-ORCID
+Explore the wider educational work:
 
-https://orcid.org/0009-0002-2935-1042
+- [Empowering Health — The Ultimate Holistic Health Guide](https://drnadharmadhikariclinic.com/empowering-health/)
+- [Noble Thoughts Forever](https://wellnessskyline.com/noble-thoughts-forever-dr-n-a-dharmadhikari/)
+- [Pearls of Wisdom Galaxy](https://wellnessskyline.com/pearls-of-wisdom-galaxy/)
+- [Wellness Daily Thoughts](https://wellnessskyline.com/wellness-daily-thought-0001/)
+- [Wisdom Shorts Insights](https://wellnessskyline.com/wisdom-shorts-insight-0001/)
+- [Wellness Wisdom Weekly Edition](https://wellnessskyline.com/wellness-wisdom-weekly-edition-0001/)
+- [Scientific Wellness Insights](https://wellnessskyline.com/scientific-wellness-insights/)
+- [Dodecagon Framework for Global Wellness Science — Research & Innovation Hub](https://wellnessskyline.com/research-discovery-innovation-development/)
 
----
+## 👨‍⚕️ Founder & Research Identity
 
-# 🤝 Connect
+**Dr. Neelesh Aniruddha Dharmadhikari**
 
-- 🌍 https://gwsecosystem.com
-- 🌿 https://wellnessskyline.com
-- 🏥 https://drnadharmadhikariclinic.com
+General Physician & Surgeon | Holistic Health Educator | Founder of the Global Wellness Skyline initiatives
 
-GitHub
+- **ORCID:** https://orcid.org/0009-0002-2935-1042
+- **GitHub:** https://github.com/DrNADharmadhikari
+- **Gravatar:** https://gravatar.com/neeleshdharmadhikari
 
-https://github.com/DrNADharmadhikari
+## 🤝 Our Shared Vision
 
-Gravatar
+We envision an educational world where technology supports human understanding, where knowledge is communicated responsibly, and where differences in language and culture encourage connection rather than division.
 
-https://gravatar.com/neeleshdharmadhikari
+**Artificial Intelligence + Human Intelligence + Neural Networks → Wisdom Galaxy**
 
----
+This is an aspirational framework for exploring how technology, human understanding, and learning can contribute to wiser and more responsible knowledge-sharing.
 
-# 🔖 Related Educational Initiatives
-
-- Responsible Digital Knowledge
-- Global Wellness Skyline (GWS) Ecosystem
-- Wellness Skyline
-- Empowering Health Megablog
-- Noble Thoughts Forever
-- Pearls of Wisdom Galaxy
-- Scientific Wellness Insights
-- Wellness Wisdom Weekly Edition
-
----
-
-> **"Building an Educational Ecosystem Where Artificial Intelligence and Human Wisdom Work Together."**
+> **“Building an Educational Ecosystem Where Artificial Intelligence and Human Wisdom Work Together.”**
 
 ---
 
-### © Dr. Neelesh Aniruddha Dharmadhikari
+### 🌍 A Welcome Without Borders
 
-**Global Wellness Skyline (GWS) Ecosystem**
+**Created by Dr. Neelesh Aniruddha Dharmadhikari**
+
+Global Wellness Skyline (GWS) Ecosystem
 
 *Connecting Healthcare • Wellness • Education • Responsible Digital Knowledge • Artificial Intelligence • Human Wisdom • Accessibility • Lifelong Learning*
+
+---
+
+### 📜 Licence
+
+Unless otherwise stated, this repository is shared under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** licence.
+
+[Read the full licence](https://creativecommons.org/licenses/by-nc/4.0/).
+
